@@ -5,7 +5,7 @@
 
 ## Startup procedure
 
-1. Create a '```democrud```' database in postgres.
+1. Create a 'democrud' database in postgres.
 
 1. In Visual Studio Code, open the project. 
 
@@ -13,7 +13,7 @@
 1. Start Command Prompt and move to the following directory of the project.  
 
    ```
-   cd C:\['your location']\CRUD-Go-Postgres-Vuetify3
+   cd CRUD-Application-Go-Vue
 
    ```
 
