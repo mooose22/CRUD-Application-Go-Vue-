@@ -1,7 +1,3 @@
-## [v1: basic system of a crud operation (begineer level)](/tree/v1)
-
-## [v2: Package System folder architecture (following Clean Architecture)](/tree/v2) 
-<br>
 
 ## Startup procedure
 
